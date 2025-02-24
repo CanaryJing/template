@@ -1,8 +1,8 @@
 DOMAIN-SUFFIX,kamiyo.dev
 DOMAIN-SUFFIX,tsuki99.com
 DOMAIN-SUFFIX,kamiyosumine.net
-DOMAIN-SUFFIX,ddns.oray.com
-DOMAIN-SUFFIX,ip.3322.net
-DOMAIN-SUFFIX,4.ipw.cn
-DOMAIN-SUFFIX,v4.yinghualuo.cn
-DOMAIN-SUFFIX,api.cloudflare.com
+DOMAIN,ddns.oray.com
+DOMAIN,ip.3322.net
+DOMAIN,4.ipw.cn
+DOMAIN,v4.yinghualuo.cn
+DOMAIN,api.cloudflare.com
